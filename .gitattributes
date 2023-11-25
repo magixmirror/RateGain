@@ -1,0 +1,4 @@
+*.Cython linguist-detectable=false
+*.C linguist-detectable=false
+*.XSLT linguist-detectable=false
+*.GAP linguist-detectable=false
